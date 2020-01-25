@@ -1,3 +1,3 @@
 Hello World!
 
-This is typed directly from the browser
+This script prints out "Hello World"
